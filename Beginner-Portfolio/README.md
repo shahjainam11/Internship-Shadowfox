@@ -1,4 +1,4 @@
-# Beginer - Portfolio Website
+# Beginner - Portfolio Website
 
 Welcome to the Beginer folder! This directory contains my first portfolio website built during my internship at ShadowFox.
 
